@@ -1,12 +1,11 @@
 # Build Airplane
 
 I've collected most of the stuff to build the Airplane
-![Stuffs](https://scrapbook-into-the-redwoods.s3.amazonaws.com/4e6bd814-addf-403c-91d1-76bbc649ac0c-1000017844.jpg)
+![Stuffs](stuff.jpg)
 
 # 1st Hr 
 Built a hot wire cutter to cut the Thermocol/Polystyrene sheets easily.
-![Hot Wire Cutter](https://github.com/innovativecreations/Airplane/blob/main/hot%20wire%20cutter.jpg?raw=true)
-
+![Hot Wire Cutter](1Hr/1.jpg)
 # Plan
 The airplane wing consists of 3 part and in the upcoming 3 hours. I built them.
 
@@ -32,24 +31,56 @@ Filled the fuselage and joined it with 48 Inch PVC pipe
 ![](7Hr/1.jpg)![](7hr/2.jpg)
 
 # 8th Hr
-
+Made the horizontal and vertical stabliser
+![](8Hr/1.jpg)![](8hr/2.jpg)![](8Hr/3.jpg)
 
 # 9th Hr
-
+Cleaned my room
+![](9Hr/before.mp4)![](9hr/1.jpg)
 
 # 10th Hr
-
+Extended the wires of Servos and ESC
+![](10Hr/1.jpg)![](10hr/2.jpg)![](10Hr/3.jpg)
 
 # 11th Hr
-
+Made a mount for Brushless Motor and attached the Servos
+![](11Hr/1.jpg)![](11Hr/2.jpg)![](11Hr/3.jpg)![](11Hr/4.jpg)
 
 # 12th Hr
-
+Made the control horns from veroboard and added popsicle sticks to the wing
+![](12Hr/1.jpg)![](12hr/2.jpg)
 
 # 13th Hr
-
+Attached the control horns to the stablisers and enlarged the holes of servo's flap. Attached pens to hold the wing
+![](13Hr/1.jpg)![](13Hr/2.jpg)![](13Hr/3.jpg)![](13Hr/4.jpg)
+Trying to make a connector between the control horn and the servos
+![](13Hr/5.jpg)
 
 # 14th Hr
-
+Connected the control horn and the servos
+![](14Hr/1.mp4)
+Solder of servo broke
+![](14Hr/2.jpg)
+Soldered the wire of the servo
+Connected the Motor and the Esc
+![](14Hr/3.jpg)
 
 # 15th Hr
+Completed the wiring
+![](15Hr/1.mp4)
+Mark the points to balance the whole 
+![](15Hr/2.jpg)
+Testing the trusters
+![](15Hr/3.mp4)
+Connected the wing
+![](15Hr/4.mp4)
+
+# 16th Hr (Testing)
+Show
+[![]()](15Hr/1.mp4)
+#1 Test
+![](15Hr/2.mp4)
+#2 Test
+![](15Hr/3.mp4)
+#3 Test
+![](15Hr/4.mp4)
