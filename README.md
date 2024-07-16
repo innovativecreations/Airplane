@@ -1,5 +1,8 @@
 # Build Airplane
 
+I've tried to build a remote-controlled plane whose wings collapsed😢
+
+
 I've collected most of the stuff to build the Airplane
 ![Stuffs](stuff.jpg)
 
